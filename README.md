@@ -1,7 +1,7 @@
 ![MasterHead](https://miro.medium.com/v2/resize:fit:2000/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif)
 <h1 align="center">Hi 👋, I'm Cengizhan ALTIN</h1>
 <h3 align="center">A passionate software developer from Turkey</h3>
-<img align="right" width="400" src="https://www.chawtechsolutions.com/wp-content/uploads/2019/03/developer.gif">
+<img align="right" width="400" src="[https://www.chawtechsolutions.com/wp-content/uploads/2019/03/developer.gif]">
 
 - 🌱 I’m currently learning **Front End Development**
 
