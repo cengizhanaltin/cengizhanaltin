@@ -1,6 +1,10 @@
 ![MasterHead](https://miro.medium.com/v2/resize:fit:2000/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif)
 <h1 align="center">Hi 👋, I'm Cengizhan</h1>
 <h3 align="center">A passionate software developer from Turkey</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=cengizhanaltin&label=Profile%20views&color=3e4346&style=flat" alt="cengizhanaltin" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cengizhanaltin" alt="cengizhanaltin" /></a> </p>
+
 <img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🌱 I’m currently learning **Front End Development**
